@@ -1,16 +1,16 @@
-### Hi there 👋
-Vadhel Milan Here
-<!--
-**Vadhel63/Vadhel63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Vadhel Milan!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a 3rd year computer engineering student at ddu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming Languages:c++,python,java,c#,c
+- Frameworks: Nodejs,Reactjs,Djnago,springboot rest,
+- Tools: Git/Github,Docker,Postman
+
+## 📈 GitHub Stats
+![Vadhel63's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadhel63&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- Email: vadhelmilan7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vadhelmilan
