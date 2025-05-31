@@ -3,15 +3,21 @@
 
 
 - 💬 Ask me about **JavaScript, React, Node.js, Django, and Spring Boot**
-- 📫 How to reach me: [vadhel63@gmail.com](mailto:vadhel63@gmail.com)
+- 📫 How to reach me: [vadhelmilan7@gmail.com](mailto:vadhelmilan7@gmail.com)
 - ⚡ Fun fact: I'm passionate about learning new technologies and building full-stack projects from scratch.
 
 ---
 
 ### 📸 GitHub Stats & Skills Overview
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vadhel63/Vadhel63/main/assets/github_stats.png" alt="Vadhel GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vadhel63&show_icons=true&theme=tokyonight" alt="Vadhel63 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadhel63&layout=compact&theme=tokyonight" alt="Vadhel63 Top Languages" />
 </p>
 
 ---
