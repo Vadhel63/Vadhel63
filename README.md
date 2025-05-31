@@ -19,6 +19,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadhel63&layout=compact&theme=tokyonight" alt="Vadhel63 Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vadhel63&theme=tokyonight" alt="Vadhel63 Streak Stats" />
+</p>
 
 ---
 
@@ -52,9 +55,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Vadhel63's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadhel63&show_icons=true&theme=radical)
 
 ---
 
