@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadhel Milan</h1>
-<h3 align="center">A 3rd year computer engineering student at DDU,Nadiad</h3>
+<h3 align="center">A Final year computer engineering student at DDU,Nadiad</h3>
 
 
 - 💬 Ask me about **JavaScript, React, Node.js, Django, and Spring Boot**
